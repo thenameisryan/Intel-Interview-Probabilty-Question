@@ -1,1 +1,1 @@
-# Intel-Interview-Probabilty-Question
+# Intel-Interview-Probability-Question
