@@ -5,7 +5,7 @@ There are 2 buckets named A and B and it is filled with a total of 100 balls. Th
 Gives a solution to the problem and able to simulate the solution
 
 ## Requirement
-Python 3 or higher
+Python 3.7.3 or higher
 
 ## Quick start
 
