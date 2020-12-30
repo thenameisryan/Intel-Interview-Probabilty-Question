@@ -31,15 +31,15 @@ def openSolution():
    
     solution = 'Solution: \n' \
             + 'Assuming that one of the two buckets is chosen at random \n' \
-            + 'and then one of the balls from that bucket is chosen at random.  \n' \
-            + 'You want to put 1 red ball in 1 of the buckets and all of the other 99 \n' \
-            + 'balls in the other bucket.   This gives you just slightly less than a 75% \n' \
-            + 'change of having a red ball chosen. There’s a 50% chance of \n' \
+            + 'and then one of the balls from the bucket is chosen at random.  \n' \
+            + 'I will put to put 1 red ball in 1 of the buckets and all the other 99 \n' \
+            + 'balls in the other bucket. This gives a less than 75% \n' \
+            + 'chance of having a red ball being chosen. Therefore, there will be a 50% chance of \n' \
             + 'selecting the bucket containing 1 ball with a 100% chance of \n' \
-            + 'selecting a red ball from that bucket.  And a 50% chance of \n' \
+            + 'selecting a red ball from the bucket.  And a 50% chance of \n' \
             + 'selecting the bucket containing 99 balls with a 49.5% (49/99) \n' \
-            + 'chance of selecting a red ball from that bucket.  \n' \
-            + 'Total probability of selecting a red ball is \n\n' \
+            + 'chance of selecting a red ball from the bucket.  \n' \
+            + 'Average probability of selecting a red ball is \n\n' \
             + '(50% % 100%) + (50% * 49.5%) = 74.7%.'
     Label(solutionWindow,  
           text =solution).pack() 
