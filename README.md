@@ -9,7 +9,7 @@ Python 3 or higher
 
 ## Quick start
 
--   **Step 1.** Install a supported version of Python on your system.
+-   **Step 1.** Install a supported version of Python on your system. (https://www.python.org/downloads/)
 -   **Step 2.** Open command prompt and point towards the directory of the python file 
 -   **Step 3.** Type in "py avg-probabilty-solution.py" and click "Enter
 
